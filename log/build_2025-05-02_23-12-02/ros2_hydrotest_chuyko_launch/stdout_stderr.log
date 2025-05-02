@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating ros2_hydrotest_chuyko_launch.egg-info
+writing ros2_hydrotest_chuyko_launch.egg-info/PKG-INFO
+writing dependency_links to ros2_hydrotest_chuyko_launch.egg-info/dependency_links.txt
+writing entry points to ros2_hydrotest_chuyko_launch.egg-info/entry_points.txt
+writing requirements to ros2_hydrotest_chuyko_launch.egg-info/requires.txt
+writing top-level names to ros2_hydrotest_chuyko_launch.egg-info/top_level.txt
+writing manifest file 'ros2_hydrotest_chuyko_launch.egg-info/SOURCES.txt'
+reading manifest file 'ros2_hydrotest_chuyko_launch.egg-info/SOURCES.txt'
+writing manifest file 'ros2_hydrotest_chuyko_launch.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/install/ros2_hydrotest_chuyko_launch/lib/python3.10/site-packages/ros2-hydrotest-chuyko-launch.egg-link (link to .)
+
+Installed /home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/build/ros2_hydrotest_chuyko_launch
+running symlink_data
+creating /home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/install/ros2_hydrotest_chuyko_launch/share/ament_index
+creating /home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/install/ros2_hydrotest_chuyko_launch/share/ament_index/resource_index
+creating /home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/install/ros2_hydrotest_chuyko_launch/share/ament_index/resource_index/packages
+symbolically linking /home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/build/ros2_hydrotest_chuyko_launch/resource/ros2_hydrotest_chuyko_launch -> /home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/install/ros2_hydrotest_chuyko_launch/share/ament_index/resource_index/packages
+symbolically linking /home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/build/ros2_hydrotest_chuyko_launch/package.xml -> /home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/install/ros2_hydrotest_chuyko_launch/share/ros2_hydrotest_chuyko_launch

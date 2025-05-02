@@ -1,0 +1,23 @@
+[0.989s] Invoking command in '/home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/build/ros2_hydrotest_chuyko_example_2': CMAKE_PREFIX_PATH=/home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/install/ros2_hydrotest_chuyko_interfaces:/home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/install/ros2_hydrotest_chuyko_example_1 PYTHONPATH=/home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/build/ros2_hydrotest_chuyko_example_2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/install/ros2_hydrotest_chuyko_example_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/build/ros2_hydrotest_chuyko_example_2/build --no-deps symlink_data
+[1.356s] running develop
+[1.508s] running egg_info
+[1.508s] creating ros2_hydrotest_chuyko_example_2.egg-info
+[1.508s] writing ros2_hydrotest_chuyko_example_2.egg-info/PKG-INFO
+[1.508s] writing dependency_links to ros2_hydrotest_chuyko_example_2.egg-info/dependency_links.txt
+[1.508s] writing entry points to ros2_hydrotest_chuyko_example_2.egg-info/entry_points.txt
+[1.508s] writing requirements to ros2_hydrotest_chuyko_example_2.egg-info/requires.txt
+[1.509s] writing top-level names to ros2_hydrotest_chuyko_example_2.egg-info/top_level.txt
+[1.509s] writing manifest file 'ros2_hydrotest_chuyko_example_2.egg-info/SOURCES.txt'
+[1.524s] reading manifest file 'ros2_hydrotest_chuyko_example_2.egg-info/SOURCES.txt'
+[1.524s] writing manifest file 'ros2_hydrotest_chuyko_example_2.egg-info/SOURCES.txt'
+[1.532s] running build_ext
+[1.532s] Creating /home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/install/ros2_hydrotest_chuyko_example_2/lib/python3.10/site-packages/ros2-hydrotest-chuyko-example-2.egg-link (link to .)
+[1.532s] 
+[1.532s] Installed /home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/build/ros2_hydrotest_chuyko_example_2
+[1.532s] running symlink_data
+[1.532s] creating /home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/install/ros2_hydrotest_chuyko_example_2/share/ament_index
+[1.532s] creating /home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/install/ros2_hydrotest_chuyko_example_2/share/ament_index/resource_index
+[1.532s] creating /home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/install/ros2_hydrotest_chuyko_example_2/share/ament_index/resource_index/packages
+[1.532s] symbolically linking /home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/build/ros2_hydrotest_chuyko_example_2/resource/ros2_hydrotest_chuyko_example_2 -> /home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/install/ros2_hydrotest_chuyko_example_2/share/ament_index/resource_index/packages
+[1.532s] symbolically linking /home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/build/ros2_hydrotest_chuyko_example_2/package.xml -> /home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/install/ros2_hydrotest_chuyko_example_2/share/ros2_hydrotest_chuyko_example_2
+[1.575s] Invoked command in '/home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/build/ros2_hydrotest_chuyko_example_2' returned '0': CMAKE_PREFIX_PATH=/home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/install/ros2_hydrotest_chuyko_interfaces:/home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/install/ros2_hydrotest_chuyko_example_1 PYTHONPATH=/home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/build/ros2_hydrotest_chuyko_example_2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/install/ros2_hydrotest_chuyko_example_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/pavel/Desktop/BaumanProjects/ros2_hydrotest_chuyko/build/ros2_hydrotest_chuyko_example_2/build --no-deps symlink_data
